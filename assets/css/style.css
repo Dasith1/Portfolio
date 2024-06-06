@@ -750,6 +750,19 @@ color: #000;
   right: 15px;
 }
 
+.vbox-prev{
+
+}
+.vbox-next{
+  
+}
+
+.vbox-next span, .vbox-prev span {
+  border: initial !important;
+
+}
+
+
 
 /*--------------------------------------------------------------
 # Contact
